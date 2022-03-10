@@ -3,6 +3,8 @@ add.reviewers.for.tfs.2013.js
 
 Tampermonkey script that would simplify adding reviewers for pull requests in TFS 2013
 
+![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)
+
 ## prerequisites
  
  - greasemonkey addon for your browser
